@@ -1,6 +1,6 @@
 # 🤖 RPA - Coleta de Licitações da Prefeitura de Londrina
 
-Junto ao meu amigo <a href="https://github.com/MarceloLuan">Marcelo luan</a>Este projeto utiliza **Robocorp (RPA em Python)** para acessar o site da Prefeitura de Londrina, navegar até a seção de **licitações públicas** e extrair os dados relevantes em um arquivo CSV.
+Junto ao meu amigo <a href="https://github.com/MarceloLuan">Marcelo Luan</a>, este projeto utiliza Robocorp (RPA em Python) para acessar o site da Prefeitura de Londrina, navegar até a seção de licitações públicas e extrair os dados relevantes em um arquivo CSV.
 
 ---
 
